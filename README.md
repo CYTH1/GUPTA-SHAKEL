@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mark Cornel
+- 👋 Hi, I’m Mark ![GitHub followers](https://img.shields.io/github/followers/GUPTA-SHAKEL?style=social)
 - 👀 I’m interested in ...programing
 - 🌱 I’m currently learning ... type script
 - 💞️ I’m looking to collaborate on ... open source
