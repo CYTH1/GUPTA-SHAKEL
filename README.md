@@ -6,4 +6,3 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GUPTA-SHAKEL&theme=radical)
 ![GitHub followers](https://img.shields.io/github/followers/GUPTA-SHAKEL?style=for-the-badge)
-https://img.shields.io/badge/<FACEBOOK>-<ADD ME UP>-<RED>
