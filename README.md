@@ -1,10 +1,3 @@
-{
-  "name": "Mark Cornel",
-  "githubUsername": "GUPTA-SHAKEL",
-  "imageUrl": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
-  "issueNumber": 66
-}
-
 
 <h1 align="center">Hi 👋, I'm Mark Cornel</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
