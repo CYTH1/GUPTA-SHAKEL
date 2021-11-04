@@ -44,3 +44,5 @@
 ![GitHub followers](https://img.shields.io/github/followers/GUPTA-SHAKEL?style=for-the-badge)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=GUPTA-SHAKEL&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![](https://komarev.com/ghpvc/?username=GUPTA-SHAKEL&label=PROFILE+VIEW)
