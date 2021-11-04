@@ -40,4 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gupta-shakel&show_icons=true&locale=en" alt="gupta-shakel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gupta-shakel&" alt="gupta-shakel" /></p>
+
 ![GitHub followers](https://img.shields.io/github/followers/GUPTA-SHAKEL?style=for-the-badge)
