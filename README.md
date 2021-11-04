@@ -42,3 +42,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gupta-shakel&" alt="gupta-shakel" /></p>
 
 ![GitHub followers](https://img.shields.io/github/followers/GUPTA-SHAKEL?style=for-the-badge)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=GUPTA-SHAKEL&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
